@@ -1,0 +1,18 @@
+# Node.js Backend Requirements for Hotel POS System
+
+# Core dependencies
+express==5.1.0
+mongoose==8.19.3
+dotenv==16.6.1
+cors==2.8.5
+cookie-parser==1.4.7
+morgan==1.10.1
+helmet==7.1.0
+
+# Authentication and security
+bcryptjs==3.0.3
+jsonwebtoken==9.0.2
+
+# Development dependencies
+nodemon==3.1.10
+eslint==9.14.0
